@@ -1,22 +1,14 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
-Exercise for MSCH-C220
-
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
-
+# Project Name
+Context and date
+Used Exercise 2D 5/2/2026
+Description
 ## Implementation
-
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
-
+Can shoot bulletes, fly around, has asteriod and enemy ship for enemy/obstacles, I drew the bullets on piskel,
+Can move around the screen and fire and wrap to the other side of the screen
 ## References
-None
-
+Made Bullet Sprite on piskel
 ## Future Development
-None
-
 ## Created by
 Zander Grumish
